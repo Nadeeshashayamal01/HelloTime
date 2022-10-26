@@ -1,1 +1,1 @@
-MyDigitButton digitButton[]=new MyDigitButton[digitButtonText.length];  
+MyDigitButton digitButton[] = new MyDigitButton[digitButtonText.length];  
